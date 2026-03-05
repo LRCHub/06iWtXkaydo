@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "永久hours",
+  "base_artist": "Aqours",
+  "createdAt": "2026-03-05T09:32:51.054317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永久hours",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_永久hours_Aqours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永久hours",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_永久hours_Aqours.txt"
+    }
+  ]
+}
